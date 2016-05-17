@@ -11,7 +11,7 @@ public class Suma {
 	}
 	public int Incrementar (int i){
 		
-		i++;
+		i=25;
 		return i;					
 		
 	}
